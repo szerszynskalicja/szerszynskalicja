@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alicja</h1>
-<h3 align="center">Python Backend Intern and Computer Science Student</h3>
+<h3 align="center">Junior Python Backend Developer and Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Django and Docker**
 
